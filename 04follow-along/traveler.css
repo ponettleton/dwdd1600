@@ -28,7 +28,7 @@ nav {
 }
 nav ul {
     list-style-type: none;
-    padding: 1 2vw;
+    padding: 1rem 2vw;
     margin: 0;
     display: flex;
 }
